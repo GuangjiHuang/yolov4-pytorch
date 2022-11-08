@@ -4,6 +4,7 @@ from collections import OrderedDict
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+from read_config import get_config
 
 
 #-------------------------------------------------#
@@ -168,7 +169,10 @@ class CSPDarkNet(nn.Module):
         return out3, out4, out5
     
 def darknet53(pretrained):
-    model = CSPDarkNet([1, 2, 8, 8, 4])
+    block_number = [1, 2, 8, 8, 4]
+    if get_config("is_prune", False):
+        block_number = get_config("backbone_prune", block_number)
+    model = CSPDarkNet(block_number)
     if pretrained:
         model.load_state_dict(torch.load("model_data/CSPdarknet53_backbone_weights.pth"))
     return model
