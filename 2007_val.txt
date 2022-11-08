@@ -1,0 +1,897 @@
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004804.jpg 38,107,221,263,12 86,19,138,181,14 156,66,223,115,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009166.jpg 196,18,294,280,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002178.jpg 100,136,460,320,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000406.jpg 54,285,114,313,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001100.jpg 152,146,327,284,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009885.jpg 1,2,500,375,3 185,157,335,375,14 175,198,209,229,14 44,192,90,229,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009844.jpg 2,21,500,317,18 105,260,171,375,14 272,101,295,167,14 199,54,230,99,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004849.jpg 143,191,250,281,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000446.jpg 130,167,230,476,14 81,86,244,472,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006750.jpg 176,16,198,84,15 162,33,192,92,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005566.jpg 80,39,422,293,6 209,8,253,36,6 441,1,500,37,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009316.jpg 288,87,500,375,14 213,139,353,372,14 160,117,252,370,14 4,60,167,374,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006563.jpg 164,221,224,362,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005244.jpg 2,10,436,342,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003679.jpg 38,53,432,302,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004851.jpg 135,48,500,326,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008366.jpg 47,15,455,356,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003932.jpg 207,345,247,493,4 62,20,283,493,14 243,273,372,412,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007783.jpg 1,2,489,375,13 470,206,496,279,4 295,1,353,103,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000273.jpg 235,149,304,184,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006456.jpg 48,36,373,313,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002700.jpg 257,63,412,373,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009003.jpg 3,65,333,499,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000131.jpg 1,99,475,266,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002910.jpg 264,123,426,314,8 89,123,232,285,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009641.jpg 81,196,160,296,14 72,343,150,376,6 192,337,280,380,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001548.jpg 133,145,287,328,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003484.jpg 468,35,493,78,14 464,29,500,159,14 450,43,475,93,14 405,30,433,120,14 49,65,491,323,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007550.jpg 1,8,338,500,13
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007176.jpg 29,197,477,430,6 76,123,184,354,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009564.jpg 108,222,217,319,1 122,144,192,275,14 271,164,406,262,6 205,173,285,214,6 70,171,204,218,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000550.jpg 102,213,473,375,10 380,118,443,174,8 150,128,233,229,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000267.jpg 80,86,332,500,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003213.jpg 279,1,497,138,14 1,54,72,290,14 1,47,352,334,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000807.jpg 34,31,200,500,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000243.jpg 181,127,274,193,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003206.jpg 157,94,218,205,14 144,139,230,275,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001901.jpg 192,261,247,390,8 233,258,308,400,8 238,266,312,413,10
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003378.jpg 27,115,158,323,14 91,110,273,372,14 230,133,426,375,14 260,93,447,374,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004041.jpg 115,118,295,375,14 267,154,427,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006104.jpg 33,149,456,333,17 171,100,331,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004200.jpg 18,53,151,252,9 160,53,266,246,9 258,31,373,251,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000026.jpg 90,125,337,212,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007886.jpg 162,129,475,367,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005285.jpg 90,118,372,342,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003795.jpg 376,174,500,383,1 50,201,254,411,1 237,167,359,397,1 247,4,341,339,14 380,28,500,330,14 54,26,273,362,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001473.jpg 64,106,209,500,14 183,88,331,500,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004922.jpg 216,125,369,192,4 105,42,291,332,14 202,1,500,330,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001918.jpg 291,184,368,375,14 362,186,449,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001094.jpg 2,167,347,212,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004728.jpg 449,199,472,253,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006628.jpg 64,128,113,155,8 157,124,190,171,8 172,137,209,182,8 213,144,252,195,8 249,161,291,216,8 133,207,271,375,8 17,179,152,373,8 48,150,216,375,10 386,104,429,140,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004550.jpg 179,132,281,241,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005808.jpg 369,174,500,281,19 252,100,431,375,14 27,117,316,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009838.jpg 5,97,486,245,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000880.jpg 305,24,355,65,2 51,239,87,322,2 116,158,141,206,2 379,119,440,199,9 329,114,380,179,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002183.jpg 2,139,412,327,12 33,1,183,327,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001158.jpg 267,1,499,350,8 1,2,259,359,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000563.jpg 164,165,450,210,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007620.jpg 91,172,253,480,12 118,99,242,304,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005354.jpg 230,114,330,221,13 5,98,222,375,13 361,115,437,265,14 1,89,38,184,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003483.jpg 208,104,365,330,14 31,181,79,227,14 1,176,18,235,14 1,171,499,333,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001137.jpg 174,117,272,333,14 242,74,347,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004481.jpg 42,167,465,376,6 150,81,250,243,14 268,115,358,239,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003301.jpg 97,41,271,333,14 104,196,236,294,11 4,110,109,309,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000225.jpg 125,96,355,263,16 2,22,47,81,16
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005470.jpg 3,3,375,500,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007489.jpg 198,42,491,372,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009104.jpg 223,150,302,265,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002056.jpg 93,139,303,402,5 331,260,375,381,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000826.jpg 11,32,436,445,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009766.jpg 245,79,500,280,14 92,71,496,435,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008652.jpg 171,53,365,500,14 85,234,132,332,14 12,171,70,311,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000556.jpg 75,101,358,302,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006369.jpg 18,110,424,301,6 435,102,446,131,14 450,108,500,146,6 479,96,500,156,14 334,95,380,121,6 367,100,401,137,14 400,125,425,167,14 179,13,235,64,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006792.jpg 131,172,250,440,14 215,37,326,221,8 280,89,375,298,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001290.jpg 26,170,477,336,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005569.jpg 69,224,413,359,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002975.jpg 225,25,500,207,18 231,125,254,192,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000829.jpg 217,166,452,280,5 1,171,199,290,5 355,1,385,20,6 468,315,492,351,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005665.jpg 235,192,317,305,8 75,152,169,268,8 42,99,112,198,8 96,65,158,147,8 206,55,251,130,8 377,163,479,277,8 409,109,486,203,8 376,30,412,89,8 334,29,371,82,8 288,41,325,97,8 429,33,484,96,8 234,29,273,77,8 323,68,382,147,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003803.jpg 156,186,249,341,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000850.jpg 213,71,334,209,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000435.jpg 205,108,427,295,12 235,75,300,275,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005957.jpg 105,23,450,361,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004170.jpg 77,189,411,250,3 335,153,368,207,14 312,174,342,214,14 125,140,157,196,14 156,143,211,219,14 185,140,213,218,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001452.jpg 85,278,223,500,12 94,142,252,350,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006909.jpg 1,7,485,375,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004817.jpg 1,291,181,340,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006760.jpg 204,87,334,258,7 450,175,500,374,19 2,2,253,211,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004022.jpg 458,149,500,189,9 210,162,240,213,9 44,216,125,269,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002443.jpg 51,175,333,393,11 3,135,286,321,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003854.jpg 68,116,333,500,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005289.jpg 360,143,435,301,2 103,150,179,307,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008569.jpg 244,21,408,312,14 148,39,283,287,14 66,22,184,269,14 5,223,228,374,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000450.jpg 38,36,325,426,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004359.jpg 163,130,224,298,14 234,150,268,227,14 259,148,302,255,14 257,197,298,276,1 150,210,220,329,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007013.jpg 234,71,373,333,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005600.jpg 255,136,319,165,0 100,195,114,226,14 88,195,102,224,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002114.jpg 324,159,397,375,14 311,100,358,169,14 34,1,500,375,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006743.jpg 89,168,184,291,19 235,276,327,313,7 1,194,35,356,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005575.jpg 6,108,496,277,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008408.jpg 6,68,494,366,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006349.jpg 5,36,495,256,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004661.jpg 93,92,489,375,14 1,138,212,312,14 107,139,500,373,8 74,120,282,292,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005490.jpg 109,47,266,277,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005973.jpg 133,132,333,396,12 176,169,273,433,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000669.jpg 296,198,410,245,6 409,202,500,333,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007916.jpg 13,82,491,229,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006151.jpg 106,173,321,377,12 53,170,140,363,14 215,171,262,340,14 276,174,334,332,14 1,192,207,337,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008265.jpg 151,27,500,374,14 4,36,493,372,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008798.jpg 255,142,490,367,5 215,184,259,266,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004867.jpg 3,70,500,305,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006211.jpg 151,239,201,283,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004332.jpg 157,328,299,470,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006883.jpg 93,131,252,250,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007227.jpg 5,36,268,500,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001417.jpg 183,43,302,205,14 55,85,367,376,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005611.jpg 93,53,343,319,12 163,22,266,199,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005501.jpg 26,54,452,330,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002580.jpg 134,25,166,143,3 54,215,324,330,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004561.jpg 189,154,316,375,14 33,276,443,375,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001913.jpg 136,89,441,214,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008578.jpg 242,128,263,206,14 129,141,442,250,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004591.jpg 139,158,264,199,18 307,266,500,333,6 326,247,500,307,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002774.jpg 284,77,500,375,12 72,128,340,375,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005864.jpg 126,161,316,268,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000795.jpg 1,272,500,333,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003080.jpg 5,71,377,331,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007065.jpg 166,58,382,307,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009467.jpg 93,206,293,342,2 84,37,175,147,2 18,43,90,141,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005916.jpg 316,168,448,275,16 50,159,141,262,16 3,158,42,226,16
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009229.jpg 320,128,500,260,13 26,133,140,245,13 412,49,496,161,14 1,80,72,255,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006431.jpg 134,133,355,295,13 221,62,341,268,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005602.jpg 131,105,389,271,11 362,152,444,207,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005969.jpg 41,59,353,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005724.jpg 56,206,309,500,13 82,76,284,289,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006440.jpg 307,137,500,305,13 270,123,313,266,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003595.jpg 443,204,500,338,16 380,213,450,341,16 316,192,389,343,16 239,210,347,339,16 137,222,222,357,16 4,79,93,325,14 61,103,160,252,14 192,71,302,209,14 256,64,360,202,14 333,70,423,197,14 404,61,447,201,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002171.jpg 41,174,191,329,14 35,247,170,401,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007631.jpg 286,1,363,114,14 373,1,435,113,14 327,78,341,116,4 157,75,171,118,4 120,76,136,120,4 40,1,100,116,14 436,117,500,230,8 344,117,425,229,8 65,120,142,224,8 1,121,64,224,8 96,64,327,340,14 257,101,457,375,14 443,255,500,375,14 209,253,317,375,14 92,269,179,375,14 1,262,93,375,14 115,50,237,117,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009307.jpg 7,13,400,367,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008194.jpg 49,138,421,323,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004477.jpg 2,184,284,255,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004901.jpg 111,131,335,318,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000805.jpg 29,65,356,411,11 308,85,375,214,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003444.jpg 36,91,304,263,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004093.jpg 320,162,375,275,8 257,189,381,320,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001175.jpg 119,153,367,329,14 360,114,449,187,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000925.jpg 29,101,216,343,16 309,105,460,333,16
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009858.jpg 93,177,283,226,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008042.jpg 75,138,500,364,17 67,61,213,261,14 96,269,121,344,4 116,268,135,334,4 123,255,142,319,4 145,259,171,326,4 154,240,173,307,4 38,193,57,261,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000241.jpg 356,183,500,280,3 60,109,142,213,3 246,134,348,217,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007952.jpg 223,138,333,303,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003847.jpg 204,151,500,375,14 1,59,209,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006352.jpg 153,118,408,177,5 43,82,174,374,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001397.jpg 128,121,214,263,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000463.jpg 196,77,301,165,13 221,47,283,161,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000579.jpg 263,159,309,186,6 2,139,156,225,6 318,163,419,296,13 315,123,389,259,14 333,126,415,271,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005875.jpg 37,4,464,368,13
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003667.jpg 16,45,421,445,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008079.jpg 148,133,203,309,14 195,127,274,308,14 270,137,320,273,14 338,187,366,275,14 321,151,373,274,14 267,249,356,331,11 48,137,159,198,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000866.jpg 133,159,376,365,12 187,107,277,298,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007307.jpg 155,96,447,290,13 244,57,385,266,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008179.jpg 82,2,380,228,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002597.jpg 88,173,422,375,7 51,21,388,248,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003424.jpg 29,239,230,500,12 102,312,333,500,14 95,82,269,412,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004826.jpg 61,224,261,361,9 395,152,443,257,14 444,146,476,183,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009734.jpg 120,97,353,263,5 395,181,458,326,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007859.jpg 1,4,469,337,16
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001799.jpg 40,69,261,354,14 15,13,90,266,14 412,89,500,355,14 13,287,143,391,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000864.jpg 4,81,486,242,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006293.jpg 163,72,244,172,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003257.jpg 22,14,476,222,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009418.jpg 149,237,264,333,11 181,102,251,227,11 142,3,353,262,14 207,62,500,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001595.jpg 268,162,442,296,5 40,158,275,288,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006292.jpg 75,199,364,333,1 157,109,320,304,14 355,119,453,316,14 117,25,197,274,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008562.jpg 75,49,383,298,5 12,184,58,213,6 196,130,240,198,14 128,137,174,178,14 431,158,443,187,14 461,161,486,192,13
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000662.jpg 46,23,478,242,17 4,69,432,197,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006676.jpg 326,163,500,344,17 48,156,173,275,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007199.jpg 87,36,500,374,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009225.jpg 178,289,295,361,8 305,264,408,353,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008947.jpg 61,195,121,254,19 263,140,345,258,15 312,189,485,318,17 61,220,199,368,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008527.jpg 86,110,246,222,9 142,146,340,375,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000951.jpg 226,73,245,127,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006844.jpg 87,105,492,237,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008762.jpg 222,349,291,408,11 85,118,238,500,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002581.jpg 453,184,500,314,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009656.jpg 181,156,324,345,1 207,86,327,305,14 398,98,500,217,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007298.jpg 3,1,278,330,5 291,135,333,275,14 217,132,268,266,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001939.jpg 6,3,428,269,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009300.jpg 64,153,173,369,2 173,84,286,274,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004664.jpg 17,329,137,488,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004138.jpg 168,247,320,480,14 5,72,297,480,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006977.jpg 64,37,253,376,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005625.jpg 65,50,500,375,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002350.jpg 86,3,294,500,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004905.jpg 2,8,197,280,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006381.jpg 246,251,265,295,4 5,209,125,375,14 323,198,435,365,14 267,185,353,290,14 250,126,289,167,14 3,163,56,305,14 82,155,157,295,14 127,135,207,276,14 204,130,227,171,14 217,132,260,234,14 77,266,420,375,10 394,253,489,358,8 210,170,266,238,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001849.jpg 100,126,284,375,14 260,162,408,375,14 360,218,422,308,14 419,225,472,328,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001221.jpg 104,101,264,385,18 167,249,197,284,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007884.jpg 28,12,479,406,14 13,244,450,416,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009077.jpg 392,96,468,242,14 282,102,340,260,14 307,107,418,263,14 149,114,181,196,14 88,121,140,211,14 41,143,85,185,14 17,145,58,188,14 227,135,282,163,6 121,140,210,169,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009135.jpg 76,95,432,325,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006682.jpg 307,74,499,373,14 1,127,115,375,14 116,50,314,371,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009861.jpg 355,169,500,340,16 310,110,390,227,16 71,167,220,368,16 129,122,282,245,16 197,102,272,143,16
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004354.jpg 29,1,488,319,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001205.jpg 88,76,314,263,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005908.jpg 72,2,499,375,14 169,19,346,220,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001921.jpg 43,284,132,367,14 126,259,138,305,14 154,117,322,499,14 201,312,229,376,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002396.jpg 141,86,463,362,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008225.jpg 242,136,281,231,14 112,201,189,330,14 56,128,190,221,6 128,189,249,247,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009125.jpg 119,180,262,235,6 477,172,492,208,14 465,177,479,209,14 151,178,390,375,14 56,166,256,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008048.jpg 48,75,100,178,14 108,59,145,191,14 113,46,189,199,14 175,37,243,197,14 240,24,316,197,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006933.jpg 165,19,500,315,12 4,36,160,332,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000777.jpg 147,109,327,277,11 224,1,361,209,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008486.jpg 156,231,215,291,19 169,241,296,438,8 1,309,138,500,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009797.jpg 132,50,238,303,11 222,110,396,312,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005372.jpg 16,130,369,340,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005593.jpg 123,95,365,275,6 252,112,304,153,14 172,110,220,150,14 298,31,351,136,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005705.jpg 62,16,246,408,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005151.jpg 317,85,500,328,14 150,89,270,277,14 1,96,140,247,14 1,231,500,375,10
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007060.jpg 174,122,270,297,14 355,43,375,72,14 408,49,423,73,14 458,43,472,57,14 334,59,370,107,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002356.jpg 4,54,158,223,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006154.jpg 1,57,351,415,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002252.jpg 337,116,492,324,19 26,5,357,344,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000867.jpg 172,96,230,191,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002160.jpg 1,105,264,252,11 184,130,500,306,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000078.jpg 15,75,475,412,11 94,41,437,238,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001998.jpg 56,138,329,288,13 276,63,394,275,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005364.jpg 91,18,297,500,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005396.jpg 8,132,226,344,19 37,156,201,291,14 269,122,486,475,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008401.jpg 253,93,400,247,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005200.jpg 97,12,445,144,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003934.jpg 1,115,85,264,19 144,259,268,375,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002832.jpg 150,125,166,180,14 135,121,153,186,14 112,115,143,195,14 91,129,108,178,14 5,109,43,235,14 25,78,93,255,14 166,76,314,208,18 304,50,500,226,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007932.jpg 79,177,266,268,6 214,167,334,224,6 268,163,369,213,6 419,150,452,230,14 436,140,455,217,14 270,174,290,199,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001497.jpg 227,1,500,80,3 1,93,135,133,3 164,129,328,163,3 40,111,173,164,3 139,138,415,199,3 62,47,132,84,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005552.jpg 239,202,279,338,14 190,203,264,356,14 164,237,267,407,13
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009666.jpg 183,154,307,500,4 1,1,306,500,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001307.jpg 267,136,367,270,1 375,85,408,143,14 353,82,373,136,14 338,90,358,114,14 200,56,237,128,14 19,8,270,334,14 372,63,476,334,14 287,63,356,192,14 458,79,496,128,14 168,67,196,95,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009107.jpg 1,44,422,374,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006360.jpg 353,66,500,338,14 2,110,151,375,14 226,243,263,368,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007185.jpg 152,2,440,332,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006896.jpg 187,111,224,241,14 58,137,89,271,14 29,149,72,262,14 1,135,121,375,14 118,119,167,261,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001589.jpg 330,102,441,315,9 40,3,263,323,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007757.jpg 15,40,483,252,6 3,11,210,92,6 391,26,479,64,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001640.jpg 47,23,461,358,6 451,75,500,127,6 413,39,441,131,14 397,52,460,106,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001129.jpg 2,29,500,270,17 217,38,500,179,14 1,51,186,168,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001536.jpg 62,57,406,322,19 112,172,309,281,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008713.jpg 1,76,478,333,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006356.jpg 3,68,500,277,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001811.jpg 1,167,40,241,15 196,169,222,195,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009363.jpg 1,81,308,500,14 1,128,375,500,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006054.jpg 152,86,261,241,2 244,121,296,274,2 70,266,172,333,2 442,294,486,333,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004404.jpg 302,128,385,176,7 115,242,196,329,7 75,58,393,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007332.jpg 2,126,57,202,19 22,202,204,369,14 165,152,256,328,14 265,135,383,340,14 280,2,500,227,14 166,296,234,375,7 66,103,159,192,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008631.jpg 315,153,377,201,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001983.jpg 61,123,348,226,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009847.jpg 200,117,302,194,6 7,241,45,333,14 52,239,104,332,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002644.jpg 148,197,267,346,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007657.jpg 2,2,404,347,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007844.jpg 1,31,402,316,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002122.jpg 3,26,298,208,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006633.jpg 232,79,437,371,14 285,149,455,373,8 59,134,132,265,19 1,113,38,236,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000717.jpg 207,278,297,375,8 230,39,308,341,14 182,131,240,344,14 15,199,146,372,14 302,128,391,373,14 440,128,500,375,14 393,128,461,369,14 47,146,149,373,14 3,151,36,258,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002908.jpg 199,102,312,231,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008268.jpg 461,148,495,172,6 22,85,471,324,6 1,129,158,244,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005443.jpg 11,259,319,486,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007281.jpg 12,68,302,375,6 402,167,500,345,6 328,110,430,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004428.jpg 113,68,268,266,11 1,1,258,248,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008967.jpg 229,15,379,331,4 359,15,480,322,4 162,54,260,333,4 137,71,233,332,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008984.jpg 147,220,188,294,2 241,448,293,500,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006988.jpg 62,66,387,307,6 78,114,128,139,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001332.jpg 20,26,82,72,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006678.jpg 133,96,459,365,16
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005505.jpg 46,57,496,325,12 35,139,155,325,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009286.jpg 1,96,500,328,6 110,3,360,167,14 121,2,206,135,14 437,2,498,90,14 397,2,431,86,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007963.jpg 285,291,304,337,14 263,293,284,335,14 457,230,500,248,6 1,322,80,375,6 1,200,470,334,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003321.jpg 441,148,495,191,6 302,162,355,191,6 246,167,275,189,6 89,176,145,195,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000257.jpg 82,1,183,57,19 20,142,222,375,14 175,68,472,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000887.jpg 25,49,473,247,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007967.jpg 193,52,326,120,6 402,68,476,116,6 63,15,124,201,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005166.jpg 36,61,395,277,6 1,64,104,168,13
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005549.jpg 136,202,196,239,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006001.jpg 2,3,500,315,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009038.jpg 123,73,362,248,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007619.jpg 245,256,342,333,8 384,143,440,291,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006578.jpg 93,52,292,334,14 4,168,275,428,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009888.jpg 202,113,316,271,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001180.jpg 175,263,266,426,15 39,115,333,500,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006437.jpg 164,147,281,180,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001675.jpg 29,25,458,330,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002158.jpg 29,143,293,246,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005697.jpg 105,162,420,333,17 227,101,270,168,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006871.jpg 185,57,500,333,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009450.jpg 243,170,375,334,9 30,153,166,329,9 1,141,96,242,9 160,119,281,173,9 117,119,192,237,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000743.jpg 89,25,465,347,18 55,307,86,322,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007089.jpg 43,46,468,270,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007901.jpg 48,15,297,500,14 1,13,75,289,14 56,80,121,238,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002654.jpg 121,248,401,374,17 19,246,135,372,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006507.jpg 160,89,263,223,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001166.jpg 329,100,379,160,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006904.jpg 288,101,500,332,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005510.jpg 3,25,498,328,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004276.jpg 54,100,291,256,17 265,85,375,351,14 109,157,248,382,14 80,98,138,238,14 22,79,39,107,15 9,77,26,107,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003043.jpg 5,53,256,396,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008410.jpg 295,156,411,367,14 1,160,153,375,14 169,121,232,226,14 260,120,319,229,14 139,170,215,375,14 211,149,298,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003035.jpg 54,193,306,486,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004236.jpg 81,149,157,333,4 140,113,206,333,4 207,123,284,333,4 295,125,373,333,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006418.jpg 1,1,479,333,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009155.jpg 143,37,337,185,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001804.jpg 75,40,419,321,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007039.jpg 121,57,323,243,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005836.jpg 71,40,263,500,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005462.jpg 1,33,320,440,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002647.jpg 221,174,306,212,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002970.jpg 2,71,444,374,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003865.jpg 132,253,302,375,10 385,60,500,375,14 286,170,419,375,14 132,177,234,262,14 25,171,175,375,14 407,190,452,255,4 237,221,255,284,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003610.jpg 1,51,375,500,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003740.jpg 204,160,264,329,14 351,141,412,315,14 7,156,99,353,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002572.jpg 135,98,173,195,4 118,142,136,195,4 370,156,500,327,8 339,125,429,273,8 121,30,150,107,14 148,22,182,106,14 201,18,245,86,14 243,23,288,87,14 282,89,401,288,14 242,85,309,175,14 33,73,210,333,14 220,82,263,177,14 197,77,239,175,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004898.jpg 146,17,252,303,14 93,159,160,291,14 273,173,307,213,15 383,197,429,262,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000396.jpg 86,170,353,259,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006156.jpg 2,2,451,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007792.jpg 70,151,129,275,13 121,135,142,168,13
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002174.jpg 19,60,496,302,6 451,89,500,186,6 377,90,390,121,14 397,93,419,141,14 431,115,453,152,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008324.jpg 215,219,314,280,13 276,201,344,258,13 29,184,163,273,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003633.jpg 316,155,485,247,9 183,137,337,235,9 48,139,169,237,9 3,134,60,216,9 287,137,312,232,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007775.jpg 45,89,248,284,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001370.jpg 44,217,190,500,1 199,195,301,464,1 22,48,221,454,14 196,57,331,420,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009415.jpg 70,108,256,321,14 153,1,498,320,14 465,152,500,269,14 199,179,288,278,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005597.jpg 1,231,132,375,8 362,172,407,306,8 338,179,379,333,8 271,188,354,368,8 163,202,295,375,8 21,185,408,375,10
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008077.jpg 1,114,135,365,14 333,106,500,375,14 175,157,415,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001935.jpg 42,114,500,217,18 370,181,443,214,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001974.jpg 65,174,301,246,3 295,183,387,243,9 393,167,455,240,14 254,167,284,246,14 105,181,125,261,14 101,178,142,251,14 259,152,387,182,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001395.jpg 35,24,499,375,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005231.jpg 215,109,386,272,11 42,22,315,370,14 337,2,500,372,14 1,40,498,374,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000451.jpg 7,15,462,330,16
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006765.jpg 264,338,360,470,15 1,203,50,312,15 96,146,183,201,15 240,166,274,195,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005391.jpg 25,109,463,226,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008957.jpg 1,117,42,267,8 107,101,244,375,14 220,78,360,375,14 304,50,401,375,14 185,65,240,137,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003102.jpg 60,32,262,362,14 60,200,243,461,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000208.jpg 330,223,500,375,8 117,114,180,219,8 59,122,131,255,8 203,151,436,308,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006688.jpg 68,52,500,288,7 98,223,500,374,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001177.jpg 14,115,90,373,4 202,122,465,348,14 103,129,270,268,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007499.jpg 54,108,292,373,15 141,3,412,347,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001876.jpg 289,89,500,258,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006061.jpg 213,7,500,200,7 207,185,280,374,7 170,1,210,61,4 106,1,157,56,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002790.jpg 107,86,301,500,12 57,256,136,317,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008882.jpg 86,125,215,427,12 86,75,234,299,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005787.jpg 3,168,319,457,13
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004761.jpg 2,26,375,450,14 25,165,375,500,1 3,1,71,121,14 119,1,173,40,14 259,1,324,206,14 319,2,360,110,14 317,61,375,143,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000712.jpg 3,93,383,273,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004446.jpg 226,213,429,343,7 132,1,376,280,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007079.jpg 143,50,253,184,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000343.jpg 25,74,489,323,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008687.jpg 2,2,415,262,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005369.jpg 310,220,387,255,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002162.jpg 88,56,454,297,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009811.jpg 2,50,368,195,3 344,96,500,195,3 438,171,468,199,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000150.jpg 186,78,319,264,12 353,54,379,108,14 415,51,436,109,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003318.jpg 201,109,383,248,16
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004052.jpg 47,108,398,213,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000230.jpg 162,167,397,357,1 250,72,357,355,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001563.jpg 12,201,385,333,10 344,110,446,273,14 262,86,360,199,14 130,125,200,202,14 212,131,288,202,14 5,110,132,333,14 72,168,95,237,4 398,191,488,283,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002820.jpg 410,229,493,304,15 258,243,313,306,15 160,228,218,300,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006685.jpg 48,138,469,322,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006138.jpg 2,78,238,216,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000390.jpg 8,64,492,401,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002244.jpg 317,215,465,292,6 107,227,145,259,6 144,233,201,266,6 214,220,236,269,14 468,224,484,269,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002128.jpg 42,14,455,291,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004732.jpg 60,140,375,500,8 78,163,361,497,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000350.jpg 167,145,247,189,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005979.jpg 26,9,487,331,6 393,1,438,116,14 337,1,376,97,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008215.jpg 79,133,194,405,14 246,129,363,263,16 67,20,165,69,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002062.jpg 87,84,308,314,19 455,54,500,110,14 233,180,275,252,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008630.jpg 100,71,429,333,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007142.jpg 240,75,449,316,18 41,83,220,317,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003472.jpg 367,164,493,284,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006310.jpg 230,3,500,322,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007033.jpg 1,4,500,375,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000376.jpg 229,150,265,175,16
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005847.jpg 72,35,464,297,18 217,84,278,194,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004081.jpg 174,96,348,209,9 284,103,500,375,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003408.jpg 298,259,500,375,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006542.jpg 431,172,457,229,14 414,172,433,228,14 394,175,415,227,14 181,84,194,135,14 136,84,154,134,14 122,89,137,137,14 104,86,129,134,14 88,84,107,137,14 34,87,48,104,14 1,1,500,372,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002835.jpg 35,144,366,204,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005255.jpg 1,127,114,242,19 68,160,105,219,14 17,153,69,223,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003981.jpg 215,154,433,375,19 1,64,263,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004261.jpg 213,140,298,193,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008588.jpg 289,237,312,282,2 319,200,370,220,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009524.jpg 316,84,376,193,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004541.jpg 2,60,225,302,5 231,62,500,307,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004602.jpg 56,138,483,272,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005149.jpg 205,1,341,165,11 164,132,500,333,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000388.jpg 2,125,175,497,14 138,6,329,500,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001884.jpg 200,216,311,251,5 309,213,416,245,5 130,112,435,211,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007954.jpg 28,111,380,212,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004060.jpg 95,89,301,375,14 261,112,382,268,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005042.jpg 158,205,302,462,1 4,182,147,428,1 155,37,328,399,14 1,46,157,394,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009215.jpg 78,150,402,373,15 304,90,500,340,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003629.jpg 390,170,477,338,15 229,42,387,322,15 66,16,257,199,15 134,68,270,292,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004932.jpg 73,49,238,214,12 115,19,179,143,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002044.jpg 203,136,332,256,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004313.jpg 12,180,479,411,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000676.jpg 59,94,472,270,16
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007157.jpg 47,123,481,296,0 263,167,298,294,14 224,181,271,289,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003988.jpg 1,222,117,336,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001427.jpg 153,199,270,341,1 249,159,332,275,1 229,58,319,266,14 159,114,267,297,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002787.jpg 93,61,258,284,7 153,192,422,375,7 2,10,500,375,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007131.jpg 16,1,316,499,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000973.jpg 30,51,488,331,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008524.jpg 7,1,76,34,6 1,6,391,287,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007197.jpg 92,57,364,334,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008543.jpg 358,195,472,302,8 2,213,131,372,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001302.jpg 2,216,202,374,8 4,160,489,375,10
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003982.jpg 236,192,295,230,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000069.jpg 19,64,424,190,3 305,155,390,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009488.jpg 124,89,334,404,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007624.jpg 424,170,500,370,15 359,206,421,278,15 294,193,357,283,15 275,258,309,310,15 274,138,415,246,15 2,236,43,375,15 45,260,128,375,15 155,220,222,352,15 151,40,293,308,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002748.jpg 31,173,41,199,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006329.jpg 36,70,480,291,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001074.jpg 74,54,422,208,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000601.jpg 300,1,500,168,15 168,34,420,190,15 1,57,450,348,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004742.jpg 2,213,500,375,10 420,207,471,354,4 245,216,274,308,4 239,188,277,293,4 297,181,334,276,4 136,176,192,207,4 276,43,344,107,15 339,112,500,250,14 266,102,376,238,14 114,85,261,224,14 6,104,110,230,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009398.jpg 1,4,422,333,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005417.jpg 1,1,384,373,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002675.jpg 160,120,407,268,1 215,32,367,231,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007920.jpg 1,274,119,415,5 115,329,234,409,5 114,298,278,397,5 269,316,358,389,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007729.jpg 91,27,444,308,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002323.jpg 70,110,379,283,9 76,115,177,151,9 295,101,364,145,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005795.jpg 2,32,487,500,16
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007928.jpg 30,113,70,212,14 361,144,389,198,14 139,141,169,197,14 1,141,30,197,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000647.jpg 166,69,443,234,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000130.jpg 4,1,500,249,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005440.jpg 1,176,444,243,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000234.jpg 307,92,472,326,8 61,231,135,316,15 11,150,75,201,15 12,51,220,228,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003309.jpg 2,176,450,370,17 1,135,319,320,14 227,133,500,349,14 391,238,434,369,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000551.jpg 288,143,497,330,11 2,184,312,378,11 74,12,294,209,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004049.jpg 2,2,331,499,14 79,4,469,499,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001816.jpg 1,36,369,250,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007615.jpg 297,43,428,365,2 141,160,291,375,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009264.jpg 134,95,500,374,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001537.jpg 414,87,500,243,14 104,16,367,332,14 385,212,408,278,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002013.jpg 248,125,500,333,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008927.jpg 203,238,266,317,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006790.jpg 273,188,485,305,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008214.jpg 112,123,347,301,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009806.jpg 183,40,402,309,5 102,185,130,231,6 30,203,103,236,6 5,185,36,268,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003446.jpg 238,162,288,346,4 174,150,224,316,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005340.jpg 219,18,360,238,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009332.jpg 196,247,334,356,0 158,293,233,397,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007221.jpg 32,33,436,372,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003581.jpg 2,24,265,375,14 305,30,498,375,14 274,1,321,69,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008158.jpg 62,32,185,96,5 1,81,194,375,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002213.jpg 51,54,369,371,12 161,11,264,250,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006561.jpg 56,77,447,310,13 163,9,376,252,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005334.jpg 1,128,310,500,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004471.jpg 10,90,151,485,14 137,92,236,452,14 197,77,281,479,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004752.jpg 105,72,182,138,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004124.jpg 153,37,500,375,15 2,54,240,372,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003868.jpg 2,235,500,374,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007049.jpg 1,4,493,375,0 1,14,125,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002986.jpg 1,38,141,200,16 1,176,190,375,16 226,143,365,311,16 318,128,468,300,16 236,209,500,375,16 388,32,475,120,16 444,5,500,96,16 161,73,256,166,16 201,74,359,233,16 100,1,211,91,16 384,1,486,72,16
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002828.jpg 10,26,376,265,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008051.jpg 131,110,358,375,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006127.jpg 1,125,310,421,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007018.jpg 160,20,425,337,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008367.jpg 43,42,127,94,1 344,117,410,176,1 409,110,443,171,1 200,211,369,308,1 231,291,400,375,1 120,26,220,286,14 431,136,474,187,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008558.jpg 103,36,295,198,11 284,108,475,328,11 102,166,284,349,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005816.jpg 107,123,417,347,13 185,73,352,324,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002140.jpg 39,86,256,215,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002408.jpg 70,48,493,332,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006655.jpg 43,161,323,391,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006862.jpg 115,15,328,375,12 364,171,387,252,14 344,169,371,227,14 298,175,334,349,14 222,205,252,284,14 8,146,68,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001561.jpg 205,97,355,375,14 188,163,217,236,14 117,161,160,181,6 160,162,196,177,6 47,159,101,192,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001794.jpg 66,64,140,320,12 32,23,154,200,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000552.jpg 4,122,498,258,0 98,75,426,167,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009516.jpg 17,62,375,500,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009611.jpg 130,78,403,276,19 178,174,237,228,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004394.jpg 259,90,379,238,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009121.jpg 160,134,304,231,6 1,110,100,208,6 46,96,141,172,6 29,56,110,108,6 391,57,473,124,6 162,19,233,69,6 420,99,500,178,6 427,148,500,248,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000851.jpg 103,130,402,311,13 174,69,302,335,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005587.jpg 244,113,332,208,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007361.jpg 72,260,334,280,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004380.jpg 8,74,333,500,13 5,26,324,445,14 40,104,273,322,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004077.jpg 40,241,103,298,11 202,165,238,219,12 211,146,231,189,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007838.jpg 230,103,318,264,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001087.jpg 20,68,240,307,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009511.jpg 237,68,349,174,19 194,72,362,317,14 96,114,327,375,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005175.jpg 25,198,207,267,0 195,196,337,256,0 330,206,429,247,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008706.jpg 224,162,284,258,9 270,171,309,243,9 290,164,333,237,9 316,163,348,237,9 179,164,224,247,9 142,188,188,273,9 31,139,73,181,6 1,136,34,172,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002087.jpg 45,134,120,340,14 1,153,33,351,14 106,131,167,273,14 119,127,224,375,14 196,101,331,375,14 440,255,500,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008296.jpg 52,103,500,324,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004928.jpg 146,52,353,301,14 1,19,160,310,14 235,22,500,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003576.jpg 200,69,500,231,5 366,137,500,241,13 407,100,480,219,14 126,112,157,193,14 171,112,203,192,14 245,111,271,143,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000202.jpg 417,114,500,333,4 1,8,335,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007921.jpg 58,257,234,351,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006513.jpg 147,305,284,378,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009530.jpg 191,245,279,272,5 280,250,316,267,6 120,266,174,287,6 42,267,112,298,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006843.jpg 274,188,315,240,15 193,184,238,238,15 234,136,267,241,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002830.jpg 190,1,287,70,13 387,1,488,96,13 1,10,60,88,13 11,109,317,297,13 107,49,316,283,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001057.jpg 6,38,353,335,6 107,94,154,146,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001261.jpg 1,153,494,375,8 61,18,301,343,14 72,123,331,375,14 256,95,493,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002301.jpg 381,121,448,208,14 415,92,500,340,14 366,66,432,180,14 329,66,382,181,14 257,69,319,151,14 166,62,234,138,14 19,87,65,160,14 58,102,263,375,14 1,91,110,308,14 130,71,169,108,14 167,145,426,375,10
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000594.jpg 2,124,431,321,1 158,64,486,317,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003389.jpg 75,153,251,329,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006422.jpg 17,277,212,375,8 394,262,500,373,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005711.jpg 135,146,210,194,9 199,166,380,327,9 151,156,330,226,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006608.jpg 23,61,436,317,1 259,1,357,223,14 340,1,447,163,14 388,1,500,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008773.jpg 114,129,499,306,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001995.jpg 92,35,281,250,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009173.jpg 167,1,375,128,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007241.jpg 7,71,479,365,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003876.jpg 93,98,174,144,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000836.jpg 69,99,224,297,14 93,162,226,442,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008270.jpg 21,7,489,427,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003514.jpg 181,25,380,375,2 361,1,500,375,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009754.jpg 178,124,421,328,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002300.jpg 276,1,475,156,9 111,138,395,319,9 1,1,120,226,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000680.jpg 213,144,319,241,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003871.jpg 119,82,313,433,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005153.jpg 44,147,94,217,8 104,216,288,375,8 94,177,234,358,8 157,115,200,164,19 182,109,235,178,19 210,95,340,204,19 309,67,500,267,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003600.jpg 244,98,450,350,8 197,32,362,367,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007787.jpg 43,55,427,269,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008936.jpg 92,214,210,341,8 29,199,121,306,8 206,174,257,238,8 247,197,320,278,8 372,174,419,223,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006004.jpg 94,164,301,424,8 57,146,184,468,14 130,169,266,500,14 1,173,101,500,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007273.jpg 75,121,486,268,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002223.jpg 357,214,375,311,14 321,215,354,317,14 266,225,295,346,14 1,1,220,476,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008897.jpg 182,79,378,336,14 435,1,500,43,19 295,41,433,220,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009554.jpg 1,124,295,370,14 138,136,180,218,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005618.jpg 376,147,499,272,19 216,155,270,255,8 266,145,316,238,8 187,146,225,231,8 89,92,124,241,14 142,93,191,243,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001269.jpg 108,92,389,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003351.jpg 160,83,461,347,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008968.jpg 86,50,443,332,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001328.jpg 133,114,322,319,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009033.jpg 271,326,358,365,6 252,337,331,371,6 207,335,303,377,6 123,327,259,382,6 98,342,242,385,6 31,341,187,397,6 2,341,138,406,6 1,367,67,419,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006693.jpg 65,96,288,220,6 302,82,500,184,6 433,60,456,83,14 487,53,500,84,14 458,63,474,83,14 273,71,302,156,14 250,80,266,107,14 225,77,238,96,14 207,80,227,98,14 86,83,119,124,14 37,90,65,169,14 6,96,34,171,14 203,104,226,128,14 131,103,173,136,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003363.jpg 2,233,314,479,6 300,259,334,291,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009527.jpg 74,13,286,255,3 249,149,321,212,3 88,201,500,375,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008542.jpg 73,151,289,349,7 82,1,310,189,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002843.jpg 272,103,352,131,0 2,103,500,374,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003544.jpg 366,184,500,375,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002090.jpg 110,44,312,300,14 181,165,265,300,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004254.jpg 77,109,450,299,6 1,111,116,206,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008901.jpg 59,234,297,375,13 138,142,257,365,14 217,126,263,213,14 253,128,397,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006805.jpg 36,13,447,397,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005650.jpg 86,67,389,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009167.jpg 37,101,436,213,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003218.jpg 235,161,286,254,1 439,162,485,261,1 281,159,324,238,1 324,144,349,220,1 172,176,224,277,1 83,127,117,178,1 430,93,482,241,14 232,95,280,224,14 279,100,321,212,14 83,91,115,168,14 304,88,338,152,14 347,85,378,198,14 376,81,396,191,14 455,74,483,138,14 330,82,359,187,14 36,88,80,245,14 132,82,154,157,14 11,80,47,227,14 242,81,251,100,14 227,73,238,91,14 213,77,233,116,14 109,84,135,157,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006323.jpg 152,148,181,169,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004611.jpg 355,167,480,374,14 342,171,408,266,14 263,197,361,372,14 132,179,266,372,14 34,187,135,349,14 238,169,295,252,14 426,305,500,375,8 2,259,100,374,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007739.jpg 165,210,222,372,4 4,169,161,395,8 16,101,52,174,8 85,69,373,395,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005752.jpg 3,40,433,322,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001453.jpg 176,29,297,306,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001569.jpg 5,274,43,394,4 60,312,114,411,4 88,45,305,335,14 260,130,344,167,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009178.jpg 2,83,500,324,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000630.jpg 187,162,483,375,13 266,158,408,298,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004356.jpg 279,119,338,211,14 253,163,327,232,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008493.jpg 108,33,342,181,11 59,12,124,95,8 143,17,208,79,8 274,15,344,97,8 369,6,453,103,8 226,28,270,80,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001840.jpg 128,174,321,296,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004830.jpg 104,110,418,212,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008677.jpg 17,35,479,279,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006902.jpg 135,100,352,295,11 309,1,397,117,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008737.jpg 78,1,500,333,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009027.jpg 181,76,238,183,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005247.jpg 88,128,416,375,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004855.jpg 79,96,220,375,14 196,110,291,296,14 269,103,429,333,14 242,96,500,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007148.jpg 36,22,415,333,14 319,49,500,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005299.jpg 124,23,449,318,12 1,40,286,318,12 156,1,223,47,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003796.jpg 422,220,444,272,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008867.jpg 110,178,428,271,12 187,96,320,262,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007545.jpg 231,235,311,292,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003937.jpg 1,2,312,333,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009705.jpg 439,8,500,138,13 239,1,397,46,6 342,5,468,96,13 202,30,416,132,13 55,60,467,259,13
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000097.jpg 58,174,270,285,17 1,220,156,375,8 208,139,267,235,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004016.jpg 111,59,391,292,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002931.jpg 168,149,184,212,4 288,288,316,375,4 414,100,500,208,19 271,80,500,375,14 31,131,238,375,14 406,1,414,29,4 414,1,423,29,4 422,1,430,29,4 461,1,471,31,4 453,1,464,30,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000336.jpg 4,7,472,426,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008965.jpg 118,1,500,332,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008216.jpg 280,276,315,407,15 217,322,242,365,15 201,409,270,500,8 263,422,333,500,8 227,407,374,500,10 88,308,154,500,14 158,302,197,351,14 153,321,205,479,14 46,305,68,387,14 66,312,85,385,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005617.jpg 199,142,346,270,9 66,71,160,267,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005136.jpg 22,82,483,297,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000694.jpg 282,151,379,375,14 200,132,284,374,14 376,160,460,375,14 369,130,412,218,14 83,167,191,297,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003345.jpg 372,209,440,328,8 302,226,373,351,8 70,224,401,326,10 22,203,85,327,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000789.jpg 158,163,232,231,16 230,176,328,250,16 260,158,360,233,16 344,117,382,148,16
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007095.jpg 226,130,437,290,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000883.jpg 68,94,305,277,6 151,53,217,146,14 130,114,149,143,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003348.jpg 164,231,430,354,6 3,262,83,304,6 75,264,128,302,6 119,266,155,298,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000862.jpg 304,142,354,160,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007926.jpg 1,276,346,337,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005824.jpg 171,95,231,237,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006209.jpg 358,185,441,268,19 147,167,355,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007684.jpg 238,180,274,216,8 134,239,162,279,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000028.jpg 63,18,374,500,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003279.jpg 174,85,500,270,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000794.jpg 220,208,302,272,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007231.jpg 103,87,387,253,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005322.jpg 41,8,273,500,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008644.jpg 9,52,132,329,14 128,43,246,337,14 419,7,492,345,14 337,78,423,342,14 231,49,333,339,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006170.jpg 147,134,174,176,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001626.jpg 69,11,393,278,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007877.jpg 3,4,282,373,14 194,103,428,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008526.jpg 133,250,274,424,12 255,246,316,385,12 57,218,86,258,14 82,203,101,242,14 100,176,156,280,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004566.jpg 76,97,353,315,7 211,1,500,250,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009674.jpg 74,125,324,450,13 2,138,74,375,14 98,121,156,291,14 226,128,313,401,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005503.jpg 72,60,489,324,1 359,50,490,290,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005669.jpg 254,151,341,202,6 409,135,500,199,5 160,87,194,220,14 1,1,154,332,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003168.jpg 270,28,474,205,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004398.jpg 15,100,472,211,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009778.jpg 18,114,163,251,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004289.jpg 5,128,138,375,14 104,82,283,313,14 181,64,424,373,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008664.jpg 67,72,307,498,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002645.jpg 1,186,47,250,19 194,175,239,244,8 234,176,281,258,8 249,168,383,332,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000364.jpg 54,25,454,315,13 318,37,489,161,13 369,1,458,130,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005673.jpg 22,94,125,188,15 24,200,128,291,15 132,103,229,195,15 132,199,229,294,15 246,101,341,195,15 250,206,348,301,15 364,107,453,198,15 367,198,458,287,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005007.jpg 116,10,390,266,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003523.jpg 170,136,348,269,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009576.jpg 191,129,351,217,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009211.jpg 152,140,302,214,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007831.jpg 49,227,180,412,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007502.jpg 169,88,263,217,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007140.jpg 50,132,330,424,1 75,163,327,500,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000360.jpg 64,42,500,375,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003527.jpg 89,266,134,365,14 40,272,92,405,14 41,252,89,383,14 215,280,375,416,6 164,270,199,288,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009281.jpg 29,3,425,375,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001779.jpg 36,167,390,372,17 404,1,500,375,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008095.jpg 373,141,500,175,18 5,86,390,202,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005863.jpg 31,77,133,375,14 65,128,153,374,14 134,74,189,147,14 132,140,241,375,14 183,94,234,183,14 182,177,257,352,14 240,81,295,375,14 256,122,338,374,14 299,75,361,174,14 351,50,415,153,14 299,189,376,375,14 334,100,434,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002824.jpg 1,13,500,431,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001937.jpg 11,211,332,433,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007075.jpg 1,89,153,224,9 131,96,274,314,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004238.jpg 10,105,112,357,14 228,112,341,357,14 314,24,483,357,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006452.jpg 107,221,176,288,19 160,119,255,461,14 28,287,61,381,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009645.jpg 128,22,208,276,4 224,4,288,275,4 309,9,371,155,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000533.jpg 341,63,401,115,11 3,2,500,152,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006075.jpg 351,181,419,245,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008254.jpg 1,51,418,314,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009758.jpg 294,147,436,201,10 146,140,244,175,10 14,133,113,179,10 82,186,349,331,10 4,200,104,323,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003427.jpg 65,18,500,375,7 1,1,500,374,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001572.jpg 6,111,429,350,6 2,121,157,223,6 215,96,241,170,14 421,79,460,102,6 422,132,500,170,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008548.jpg 47,32,475,332,6 182,1,378,106,6 440,22,500,92,6 403,7,440,113,14 376,10,400,85,14 19,13,40,70,14 361,15,378,52,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007909.jpg 88,96,182,143,17 29,95,97,139,17 2,138,174,210,10 216,113,267,167,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001440.jpg 49,75,402,272,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001721.jpg 229,169,383,341,14 229,193,309,324,14 371,223,401,273,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003423.jpg 331,94,497,320,14 203,119,344,373,14 1,77,262,374,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004322.jpg 3,350,50,489,4 3,37,241,500,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003386.jpg 1,76,500,281,0 26,52,47,102,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004811.jpg 84,202,375,386,1 153,11,284,457,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002958.jpg 65,2,500,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006367.jpg 115,2,400,333,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009961.jpg 69,4,392,345,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000799.jpg 95,23,500,441,12 230,225,500,441,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001809.jpg 9,252,85,367,19 19,273,78,341,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009498.jpg 97,65,356,299,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006078.jpg 27,187,91,284,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002799.jpg 6,133,500,376,10
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006961.jpg 1,1,333,500,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005652.jpg 192,60,248,220,14 185,117,260,309,1 302,52,364,151,13
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002979.jpg 113,129,171,207,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005783.jpg 70,173,202,260,13 239,162,416,271,13
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004993.jpg 63,104,412,293,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005834.jpg 93,225,261,380,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003415.jpg 197,2,500,217,7 128,153,334,373,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006031.jpg 20,109,475,315,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007411.jpg 59,47,466,413,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004504.jpg 2,67,215,317,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008512.jpg 209,106,318,207,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009147.jpg 44,90,455,310,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006983.jpg 210,163,406,333,3 210,93,285,174,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008235.jpg 48,127,337,284,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001827.jpg 176,110,240,188,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003477.jpg 98,115,259,351,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000567.jpg 189,234,294,375,1 144,63,312,362,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008681.jpg 266,53,469,332,14 35,156,248,332,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003786.jpg 171,165,287,273,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006388.jpg 15,190,446,344,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006802.jpg 131,2,499,349,18 344,99,366,119,14 209,89,258,231,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007950.jpg 1,315,56,350,6 110,311,171,338,6 84,312,120,335,6 37,310,82,336,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002564.jpg 17,48,211,333,14 157,34,448,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000698.jpg 146,69,228,369,15 201,196,300,358,15 56,355,131,436,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003734.jpg 274,184,372,265,12 297,167,330,229,14 155,91,253,268,14 83,145,288,429,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003322.jpg 1,172,82,259,19 446,235,500,375,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004315.jpg 135,150,265,357,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004148.jpg 1,47,454,332,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004798.jpg 56,16,486,333,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004295.jpg 36,11,453,351,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000128.jpg 53,117,458,231,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004326.jpg 86,89,132,164,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001161.jpg 56,1,500,375,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004451.jpg 7,252,187,375,15 37,169,172,261,15 153,222,238,349,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008085.jpg 54,173,100,219,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007343.jpg 28,1,500,394,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007412.jpg 2,7,479,335,12 19,11,296,222,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000228.jpg 92,82,314,228,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005971.jpg 8,109,341,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000075.jpg 102,83,222,348,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009161.jpg 19,179,423,317,5 212,247,262,364,14 280,241,323,364,14 372,241,405,326,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009312.jpg 137,148,401,375,13 90,78,197,324,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004983.jpg 79,50,265,440,1 1,1,317,82,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005302.jpg 111,193,137,243,8 142,191,166,240,8 187,191,214,237,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006996.jpg 30,74,401,255,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005411.jpg 22,54,137,142,19 77,8,325,497,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008815.jpg 2,30,230,364,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008237.jpg 54,35,289,204,18 330,166,344,224,14 220,184,256,244,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007209.jpg 64,29,273,383,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004123.jpg 132,1,358,275,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002043.jpg 38,12,364,497,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001916.jpg 100,99,153,192,13 113,110,199,209,13 384,103,464,198,13 295,109,382,199,13 256,98,319,186,13 401,59,469,165,14 309,68,383,168,14 263,69,323,158,14 122,71,212,205,14 444,42,470,117,14 427,35,449,67,14 153,45,180,76,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003270.jpg 118,80,327,305,2 149,19,287,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008964.jpg 220,103,496,333,11 18,74,491,333,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005413.jpg 60,101,228,499,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007398.jpg 1,1,499,265,5 344,64,434,280,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003069.jpg 97,5,500,332,16
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008468.jpg 51,122,172,197,17 217,155,314,227,8 243,128,293,169,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002144.jpg 1,114,312,233,2 391,254,433,308,2 153,29,171,58,2 42,301,78,355,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005177.jpg 7,179,377,363,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008877.jpg 22,1,326,480,13
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007188.jpg 229,141,373,259,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002365.jpg 40,31,301,477,14 45,64,318,443,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006288.jpg 130,167,297,375,14 97,45,493,372,14 298,169,401,245,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006564.jpg 1,58,500,232,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000017.jpg 185,62,279,199,14 90,78,403,336,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001498.jpg 51,14,359,500,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000411.jpg 127,190,158,277,14 199,194,233,275,14 167,196,185,236,14 88,193,119,294,14 20,195,55,297,14 65,185,90,293,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009610.jpg 12,30,279,497,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001883.jpg 90,46,435,289,6 20,20,97,213,14 430,170,489,229,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000503.jpg 373,142,500,374,17 14,146,137,361,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004075.jpg 147,369,206,500,4 2,4,255,500,14 199,124,297,225,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009899.jpg 140,2,466,375,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002652.jpg 149,112,396,337,11 196,1,316,309,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000367.jpg 227,124,271,265,4 331,122,390,354,4 394,183,422,340,4 285,125,326,340,4 430,184,500,229,6 174,66,295,265,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007280.jpg 203,103,345,177,0 142,121,281,195,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009355.jpg 15,51,454,318,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009735.jpg 54,365,100,429,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002204.jpg 75,46,236,186,12 135,12,211,107,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005751.jpg 220,121,323,213,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007812.jpg 1,199,65,301,8 122,237,269,375,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007683.jpg 51,248,210,375,11 232,44,344,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005670.jpg 67,84,464,304,5 12,203,59,279,14 44,220,117,274,3 113,201,224,266,3 373,241,500,297,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009433.jpg 79,147,387,286,18 475,189,495,245,14 446,173,467,228,14 386,192,402,236,14 363,192,381,243,14 195,178,210,221,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008818.jpg 244,46,500,375,14 2,48,163,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009834.jpg 88,75,449,280,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003898.jpg 103,75,157,104,2 152,87,199,110,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006458.jpg 196,62,493,271,6 26,110,235,265,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006966.jpg 46,205,210,470,13
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008026.jpg 134,50,500,292,5 224,167,275,375,14 163,183,212,374,14 19,139,238,372,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001438.jpg 1,119,369,500,10 149,8,358,256,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005250.jpg 178,25,500,365,17 33,61,214,234,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001609.jpg 3,120,374,500,10
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000590.jpg 199,109,500,336,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005805.jpg 172,94,274,319,2 316,234,409,318,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006334.jpg 74,170,221,244,5 270,194,350,233,6 282,196,322,236,6 29,200,43,234,14 439,205,468,254,14 467,200,496,280,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009263.jpg 61,160,136,307,8 17,96,104,307,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004577.jpg 79,80,267,195,7 212,89,426,271,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007823.jpg 50,82,358,368,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008950.jpg 117,54,294,188,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000878.jpg 125,164,298,333,1 149,52,259,307,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008640.jpg 37,49,192,233,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000301.jpg 8,295,375,487,6 15,318,106,365,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004005.jpg 118,185,360,217,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006413.jpg 32,181,216,496,1 25,27,110,356,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009242.jpg 76,97,485,261,17 266,82,424,214,14 109,93,240,228,14 171,173,192,232,4 51,161,89,245,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000455.jpg 213,35,302,212,14 125,79,500,306,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004433.jpg 49,350,341,500,11 123,78,258,409,14 98,79,168,154,14 222,15,290,115,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006206.jpg 196,245,345,354,1 171,238,302,350,1 325,240,500,375,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003557.jpg 175,129,284,236,12 200,94,252,203,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003515.jpg 66,61,494,339,6 339,65,369,117,14 472,95,500,146,14 79,85,119,130,14 100,92,111,106,14 2,83,47,153,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005143.jpg 6,10,258,278,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000011.jpg 126,51,330,308,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008189.jpg 315,155,472,270,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007652.jpg 16,51,498,305,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000649.jpg 16,200,253,339,6 337,167,368,212,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002030.jpg 101,151,151,188,14 183,150,226,202,14 437,1,500,374,14 1,68,207,375,14 199,101,383,304,14 316,110,468,246,14 309,256,365,375,4 274,229,313,322,4 472,199,493,265,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008971.jpg 83,48,462,244,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002896.jpg 124,71,253,500,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005132.jpg 89,81,352,286,12 329,73,394,267,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003883.jpg 101,56,382,292,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005822.jpg 161,200,422,500,14 80,19,491,500,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009708.jpg 5,129,213,330,8 235,172,473,375,8 30,97,190,243,14 178,107,437,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002294.jpg 1,13,498,375,6 390,1,434,115,14 355,2,390,49,14 295,3,320,35,14 26,1,77,105,14 1,1,40,111,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009030.jpg 2,81,421,317,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000143.jpg 170,46,500,333,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005150.jpg 320,212,440,294,1 158,214,229,231,3 291,215,352,228,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001556.jpg 72,39,159,255,12 323,31,435,292,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004694.jpg 49,71,203,255,14 95,185,202,466,13
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008703.jpg 192,82,481,361,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005924.jpg 65,61,427,304,6 1,137,40,227,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004595.jpg 159,77,333,358,11 250,1,500,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000796.jpg 165,118,418,316,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006196.jpg 68,1,500,373,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005997.jpg 118,172,196,251,19 166,130,271,315,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003496.jpg 384,199,415,269,4 448,69,500,239,14 235,61,437,333,14 1,5,466,333,14 1,34,105,155,14 433,91,458,146,14 86,90,117,131,14 245,106,268,146,14 265,138,287,157,14 206,107,270,165,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006800.jpg 148,164,176,195,2 175,110,213,202,2 283,189,375,375,14 361,200,432,375,14 402,164,500,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002475.jpg 306,228,370,314,1 225,213,288,301,1 151,204,217,294,1 72,188,142,279,1 310,173,363,299,14 312,146,405,316,14 235,161,284,280,14 256,139,302,299,14 149,154,206,267,14 171,125,235,290,14 75,141,133,258,14 92,122,164,282,14 263,125,283,166,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006814.jpg 1,214,471,375,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006404.jpg 121,232,176,270,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005457.jpg 64,123,387,274,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002742.jpg 118,45,226,289,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002384.jpg 43,64,298,368,14 210,110,442,369,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002990.jpg 199,177,259,308,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009348.jpg 145,90,363,209,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000675.jpg 79,87,426,272,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004680.jpg 106,153,349,254,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002272.jpg 1,227,341,375,1 1,3,341,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006725.jpg 153,81,422,248,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001421.jpg 189,1,372,438,14 116,181,374,476,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000103.jpg 1,241,47,276,6 26,234,85,265,6 98,222,143,252,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008809.jpg 38,40,443,221,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009822.jpg 147,170,184,195,6 113,170,150,203,6 342,184,358,221,14 108,180,132,200,14 142,177,164,228,14 196,183,217,228,14 22,226,84,300,13 98,234,155,309,13 166,249,225,341,13 244,271,320,372,13 216,208,262,266,13 79,213,117,273,13 256,230,314,344,14 177,221,220,314,14 104,204,153,284,14 36,196,83,280,14 83,191,115,256,14 372,196,500,324,6 6,176,25,225,14 26,183,48,209,14 65,175,83,197,14 222,190,254,250,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007120.jpg 69,199,197,333,14 249,203,315,334,14 439,218,499,332,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005889.jpg 2,124,160,375,14 113,61,275,375,14 231,94,328,375,14 263,61,500,375,14 440,91,500,234,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008472.jpg 12,22,489,448,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005399.jpg 94,128,266,333,14 250,64,500,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005489.jpg 252,166,329,203,6 409,71,464,94,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006858.jpg 122,128,205,295,12 196,43,299,300,14 1,75,137,186,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007737.jpg 84,198,374,436,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007613.jpg 21,75,472,337,6 147,107,187,164,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003344.jpg 139,133,415,277,6 116,117,176,154,6 59,89,119,278,14 213,90,257,103,6 245,89,291,103,6 291,89,338,107,6 405,90,451,111,6 436,87,493,115,6 473,89,500,116,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003135.jpg 2,114,497,276,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009367.jpg 333,204,496,305,17 100,201,316,294,17 344,156,382,224,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009832.jpg 277,11,500,350,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006281.jpg 1,206,172,337,3 157,169,500,334,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005336.jpg 36,273,399,447,17 117,302,367,383,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004389.jpg 61,239,308,496,12 135,73,263,325,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002611.jpg 1,1,397,351,14 152,131,337,298,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004305.jpg 79,179,280,344,5 181,231,208,265,14 288,245,351,362,14 291,280,342,368,13 341,275,395,308,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008860.jpg 1,4,289,294,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005556.jpg 240,69,379,333,14 114,42,257,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009279.jpg 342,168,500,426,8 159,79,208,181,15 187,82,277,190,19 286,77,383,185,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002681.jpg 11,181,325,452,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003742.jpg 2,24,181,236,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002749.jpg 143,185,391,375,9 175,25,500,319,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002772.jpg 32,146,436,273,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004937.jpg 29,126,67,228,14 100,103,129,216,14 119,103,144,138,14 143,84,232,231,14 243,103,303,213,14 83,2,415,326,3 223,298,500,375,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007066.jpg 257,208,397,272,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003933.jpg 153,11,440,272,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000232.jpg 47,92,376,334,9 230,32,252,93,14 404,71,500,119,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008240.jpg 100,39,287,310,7 281,113,495,321,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004586.jpg 9,200,494,364,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007134.jpg 209,22,327,216,14 437,101,479,217,14 403,141,480,293,12 42,81,410,362,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004374.jpg 180,174,277,226,3
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006043.jpg 2,2,496,371,6 465,29,496,131,14 252,22,302,113,14 297,23,328,63,14 116,24,150,63,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002620.jpg 42,222,322,421,7 156,28,333,500,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008962.jpg 86,39,135,215,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001406.jpg 109,127,404,373,11 1,36,417,303,14 1,1,500,373,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005428.jpg 1,1,217,362,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004948.jpg 210,237,294,347,15 127,213,203,336,15 163,123,220,217,15 227,130,284,221,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009108.jpg 265,1,417,352,4 119,1,264,342,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006523.jpg 189,186,312,230,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001393.jpg 61,194,325,375,10 2,194,78,374,8 289,140,480,375,14 291,130,400,355,14 197,124,285,199,14 15,131,133,375,14 260,164,280,213,4 213,164,230,209,4 206,176,221,216,4 134,180,250,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001040.jpg 126,125,229,332,14 135,112,366,331,14 362,200,479,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005553.jpg 56,105,355,432,13 109,33,314,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002809.jpg 293,241,375,337,19 1,248,106,376,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001103.jpg 135,121,333,366,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003725.jpg 312,29,428,174,14 114,8,287,188,14 15,2,171,198,14 211,88,243,196,4
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003602.jpg 3,54,170,333,14 85,47,302,333,14 267,34,500,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002402.jpg 332,3,351,51,14 250,16,277,54,14 122,22,146,73,14 399,1,500,74,6 55,50,464,240,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008675.jpg 105,4,436,359,19
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003926.jpg 1,1,316,470,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001696.jpg 331,7,445,331,14 125,164,206,331,14 433,140,482,251,8 258,135,335,240,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000238.jpg 1,1,293,373,18 443,252,490,374,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005066.jpg 102,57,401,347,5
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009622.jpg 86,57,282,333,14 252,110,472,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004584.jpg 6,89,498,327,17
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005147.jpg 378,74,427,111,16 212,143,302,211,16 103,133,183,195,16 2,131,50,187,16 203,125,260,171,16 268,124,305,157,16
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003766.jpg 1,31,439,355,1
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009314.jpg 183,192,321,330,5 90,209,351,500,14 214,252,339,437,14 202,211,254,300,14 57,235,100,351,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008938.jpg 75,52,307,448,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008870.jpg 131,132,391,333,2
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002155.jpg 38,19,499,303,13
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001312.jpg 1,1,480,318,9
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006796.jpg 125,91,348,298,13 146,41,345,283,14 1,32,54,104,13 33,26,93,102,13 82,35,134,102,13 128,28,164,106,13 166,42,265,100,13 343,43,366,100,13 360,42,397,98,13 390,35,462,99,13
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008447.jpg 22,33,500,347,6 266,1,373,50,6 112,15,144,39,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009695.jpg 15,111,491,256,18
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001024.jpg 121,1,429,90,19 1,30,386,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003372.jpg 210,135,277,186,0
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002071.jpg 72,116,134,201,14 205,76,254,203,14 281,104,318,204,14 85,133,120,236,12 146,123,317,279,12 339,172,403,216,12 226,138,370,249,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007383.jpg 324,207,385,238,6 403,207,473,241,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002190.jpg 174,156,305,312,12 153,90,230,222,12 422,173,474,231,14 181,3,250,126,14 240,97,326,306,14 1,103,40,291,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000501.jpg 22,22,349,492,11
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007041.jpg 1,104,375,500,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005444.jpg 109,88,394,375,7
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002701.jpg 339,260,500,318,6 133,267,305,323,6 7,267,28,321,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001957.jpg 144,18,438,390,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/009675.jpg 80,20,500,274,6
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000865.jpg 300,167,397,268,10 407,167,465,252,8 344,172,414,272,8 378,170,441,261,8 190,102,337,375,14 3,129,124,294,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006240.jpg 1,14,350,467,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002538.jpg 200,226,231,328,4 120,42,274,290,14 104,1,282,305,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/004127.jpg 351,186,455,291,4 284,1,500,333,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000577.jpg 1,1,479,333,12
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/006457.jpg 76,25,495,395,11 12,2,500,438,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/008056.jpg 206,161,240,200,8 235,160,268,201,8
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/005040.jpg 102,47,413,375,14 244,46,500,375,14
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/003943.jpg 359,310,373,361,4 101,198,186,327,14 275,250,323,316,14 318,256,385,333,14 376,221,480,302,14 412,247,499,375,14 169,224,296,375,14 39,276,158,375,14 218,132,298,177,15 39,119,147,161,15
+/home/ysq/code/python-project/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/007402.jpg 118,13,404,368,16
