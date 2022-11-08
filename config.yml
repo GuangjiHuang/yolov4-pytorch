@@ -1,24 +1,14 @@
 # model configuration
-model_path: logs/ep048-loss0.166-val_loss0.105.pth
+model_path: logs/ep063-loss0.078-val_loss0.048.pth
 #model_path: "model_data/test.pth"
 confidence: 0.5
 nms_iou: 0.5
 
 # train and predict
-mode: "predict" # predict, dir_predict, video, fps
+mode: "fps" # predict, dir_predict, video, fps
 classes_path: "model_data/person.txt"
 
 # prune 
 is_prune: true
-backbone_normal:
-  - 1
-  - 2
-  - 8
-  - 8
-  - 4
-backbone_prune:
-  - 1
-  - 2
-  - 4 
-  - 4
-  - 2
+backbone_normal: [1, 2, 8, 8, 4]
+backbone_prune: [1, 2, 4, 4, 2]

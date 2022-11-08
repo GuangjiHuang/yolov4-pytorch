@@ -7,6 +7,7 @@ from tqdm import tqdm
 from utils.utils import get_classes
 from utils.utils_map import get_coco_map, get_map
 from yolo import YOLO
+from read_config import get_config
 
 if __name__ == "__main__":
     '''
@@ -29,8 +30,8 @@ if __name__ == "__main__":
     #   此处的classes_path用于指定需要测量VOC_map的类别
     #   一般情况下与训练和预测所用的classes_path一致即可
     #-------------------------------------------------------#
-    #classes_path    = 'model_data/voc_classes.txt'
-    classes_path    = 'model_data/person.txt'
+    classes_path    = 'model_data/voc_classes.txt'
+    classes_path    = get_config("classes_path", classes_path)
     #-------------------------------------------------------#
     #   MINOVERLAP用于指定想要获得的mAP0.x
     #   比如计算mAP0.75，可以设定MINOVERLAP = 0.75。

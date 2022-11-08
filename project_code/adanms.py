@@ -109,6 +109,7 @@ def getHeads(root_dir):
 
 if __name__ == "__main__":
     # get the head boxes
+    os.chdir(os.path.dirname(__file__))
     root_dir = r"/home/ysq/data/image/image_mark/12_NVR_IPC_20200213072959_20200213075124_2138410_5.17min_clip"
     save_dir = r"../img_s/inter_sec/"
     if not os.path.exists(save_dir):
