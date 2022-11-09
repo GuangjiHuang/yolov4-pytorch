@@ -18,6 +18,7 @@ from utils.callbacks import LossHistory
 from utils.dataloader import YoloDataset, yolo_dataset_collate
 from utils.utils import get_anchors, get_classes
 from utils.utils_fit import fit_one_epoch
+from read_config import get_config
 
 '''
 训练自己的目标检测模型一定需要注意以下几点：
@@ -72,6 +73,7 @@ if __name__ == "__main__":
     #                   训练前一定要修改classes_path，使其对应自己的数据集
     #---------------------------------------------------------------------#
     classes_path    = 'model_data/person.txt'
+    classes_path = get_config("classes_path", classes_path)
     #---------------------------------------------------------------------#
     #   anchors_path    代表先验框对应的txt文件，一般不修改。
     #   anchors_mask    用于帮助代码找到对应的先验框，一般不修改。
@@ -100,6 +102,7 @@ if __name__ == "__main__":
     #----------------------------------------------------------------------------------------------------------------------------#
     #model_path      = 'model_data/yolo4_weights.pth'
     model_path      = 'model_data/test.pth'
+    model_path = get_config("model_path", model_path)
     #------------------------------------------------------#
     #   input_shape     输入的shape大小，一定要是32的倍数
     #------------------------------------------------------#
