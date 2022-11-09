@@ -41,5 +41,6 @@ if __name__ == "__main__":
     default_val = "hello, the world"
     val = get_config(key, default_val)
     print(val)
+    print("hello, the world!")
         
         
