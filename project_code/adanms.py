@@ -1,4 +1,4 @@
-import cv2
+import cv2 as cv, cv2
 import numpy as np
 import os
 import random
@@ -9,7 +9,7 @@ def getInsertWH(area_rate, box):
     h, w = box.shape[:2]
     area = h * w
     i_area = area * area_rate
-    i_h = random.randint(1, int(h))
+    i_h = random.randint(10, int(h))
     i_w = min(int(i_area // i_h), w-1)
     return i_h, i_w
 
@@ -26,17 +26,25 @@ def genBox(box_b, box_a, area_rate, is_with_rect=False):
     # the b_box
     hbb = hb + ha - hi
     wbb = wb + wa - wi
-    b_box = 122 * np.ones((hbb, wbb, 3), np.uint8)
-    # get the center point
-    xa, ya = wbb - wa//2, ha//2
-    xb, yb = wb//2, hbb-hb//2
-
-    # mask the box_a
-    box_a[ha-hi:, :wi, :] = 0
-
-    # renew the b_box
-    b_box[:ha, wb-wi:] = box_a
-    b_box[ha-hi:, :wb] = box_b
+    # b_box = 122 * np.ones((hbb, wbb, 3), np.uint8)
+    # get the background
+    img_path = r"./img/(1050, 807)-(1454, 1058).jpg"
+    img = cv2.imread(img_path)
+    b_box = img[10:hbb+10, 10:wbb+10]
+    # 
+    hide_direction_is_right = random.randint(0, 1)
+    if hide_direction_is_right:
+        # get the center point
+        xa, ya = wbb - wa//2, ha//2
+        xb, yb = wb//2, hbb-hb//2
+        # renew the b_box
+        b_box[:ha, wb-wi:] = box_a
+        b_box[ha-hi:, :wb] = box_b
+    else:
+        xa, ya = wa//2, ha//2
+        xb, yb = wbb-wb//2, hbb-hb//2
+        b_box[:ha, :wa] = box_a
+        b_box[hbb-hb:, wbb-wb:] = box_b
 
     # if draw the rectangle
     if is_with_rect:
@@ -47,7 +55,8 @@ def genBox(box_b, box_a, area_rate, is_with_rect=False):
         cv2.rectangle(b_box, a_pt1, a_pt2, (0, 0, 255), thickness)
         cv2.rectangle(b_box, b_pt1, b_pt2, (0, 0, 255), thickness)
 
-    return b_box
+    #return b_box
+    return img
 
 
 def getHeads(root_dir):
@@ -99,14 +108,6 @@ def getHeads(root_dir):
     return all_bboxes, all_anns
 
 
-
-#for boxes in all_bboxes:
-#    for box in boxes:
-#        cv2.imshow("show", box)
-#        key_val = cv2.waitKey(0) & 0xff
-#        if key_val == ord("q"):
-#            exit(0)
-
 if __name__ == "__main__":
     # get the head boxes
     os.chdir(os.path.dirname(__file__))
@@ -127,27 +128,35 @@ if __name__ == "__main__":
 
     # the area_rate range and the number generate
     while True:
-        # get the box1
-        box1 = random.choice(all_bboxes)
-        box1 =random.choice(box1)
-        b1_h, b1_w = box1.shape[:2]
+        # random chose one of the image
+        boxes_one_img = list()
+        while len(boxes_one_img) < 2:
+            print("random select the image!")
+            boxes_one_img = random.choice(all_bboxes)
+        #box1 =random.choice(box1)
         # get the box2
-        box2 =random.choice(all_bboxes)
-        box2 = random.choice(box2)
+        #box2 =random.choice(all_bboxes)
+        #box2 = random.choice(box2)
+        box1, box2 = random.sample(boxes_one_img, 2)
+        b1_h, b1_w = box1.shape[:2]
         b2_h, b2_w = box2.shape[:2]
         #
-        if b1_h*b1_w > b2_h*b2_w:
-            scale = b1_h / b2_h
-            b2_w = int(b2_w * scale)
-            box2 = cv2.resize(box2, (b2_w, b1_h))
-            box_a, box_b = box2, box1
+        resize_flag = True
+        if resize_flag:
+            if b1_h*b1_w > b2_h*b2_w:
+                scale = b1_h / b2_h
+                b2_w = int(b2_w * scale)
+                box2 = cv2.resize(box2, (b2_w, b1_h))
+                box_a, box_b = box2, box1
+            else:
+                scale = b2_h / b1_h
+                b1_w = int(b1_w * scale)
+                box1 = cv2.resize(box1, (b2_h, b1_w))
+                box_a, box_b = box1, box2
+            #
         else:
-            scale = b2_h / b1_h
-            b1_w = int(b1_w * scale)
-            box1 = cv2.resize(box1, (b2_h, b1_w))
             box_a, box_b = box1, box2
-        #
-        just_red_and_blue = True
+        just_red_and_blue = False
         if just_red_and_blue:
             box_a = o_box_a
             box_b = o_box_b
