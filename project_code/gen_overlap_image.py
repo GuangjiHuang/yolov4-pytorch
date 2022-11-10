@@ -2,8 +2,9 @@ import cv2 as cv, cv2
 import numpy as np
 import os
 import random
-import glob
+from glob import glob
 import time
+from paste_img import *
 
 def getInsertWH(area_rate, box):
     h, w = box.shape[:2]
@@ -60,8 +61,8 @@ def genBox(box_b, box_a, area_rate, is_with_rect=False):
 
 
 def getHeads(root_dir):
-    imgs = glob.glob(os.path.join(root_dir, "*.jpg"))
-    anns = glob.glob(os.path.join(root_dir, "*.txt"))
+    imgs = glob(os.path.join(root_dir, "*.jpg"))
+    anns = glob(os.path.join(root_dir, "*.txt"))
     f_imgs = [os.path.basename(img)[:-4] for img in imgs]
     f_ans = [os.path.basename(ann)[:-4] for ann in anns]
     # check if f_img in the f_ans
@@ -109,63 +110,80 @@ def getHeads(root_dir):
 if __name__ == "__main__":
     # get the head boxes
     os.chdir(os.path.dirname(__file__))
-    root_dir = r"/home/ysq/data/image/image_mark/12_NVR_IPC_20200213072959_20200213075124_2138410_5.17min_clip"
-    save_dir = r"../img_s/inter_sec/"
+    root = r"/home/ysq/data/image/image_mark/"
+    root_dir_ls = glob(root + "12_NVR*")
+    save_dir = r"../img_s/inter_sec_another/"
     if not os.path.exists(save_dir):
         os.mkdir(save_dir)
     #
-    all_bboxes = getHeads(root_dir)
+    all_bboxes = list()
+    for root_dir in root_dir_ls:
+        all_bboxes += getHeads(root_dir)
+        break
 
-    # get the box_b and the box_a
-    box_b = np.zeros((180, 150, 3), np.uint8)
-    box_b[..., 2] = 255
-    box_a = np.zeros((150, 120, 3), np.uint8)
-    box_a[..., 0] = 255
-    o_box_a = box_a
-    o_box_b = box_b
+    print(type(all_bboxes), "len: ", len(all_bboxes))
 
     # the area_rate range and the number generate
-    while True:
-        #box1 =random.choice(box1)
-        # get the box2
-        #box2 =random.choice(all_bboxes)
-        #box2 = random.choice(box2)
-        box1, box2 = random.sample(all_bboxes, 2)
-        b1_h, b1_w = box1.shape[:2]
-        b2_h, b2_w = box2.shape[:2]
-        #
-        resize_flag = True
-        if resize_flag:
-            if b1_h*b1_w > b2_h*b2_w:
-                scale = b1_h / b2_h
-                b2_w = int(b2_w * scale)
-                box2 = cv2.resize(box2, (b2_w, b1_h))
-                box_a, box_b = box2, box1
+    image_generator_num = 100
+    board_img_path = r"./img/(998, 492)-(1548, 1066).jpg"
+    beneath_img_path = r"./img/background.jpg"
+    beneath_img = cv.imread(beneath_img_path)
+    rec_board = parseFileName(board_img_path)
+    board_img = cv.imread(board_img_path)
+    wh_board = (board_img.shape[1], board_img.shape[0])
+    for i in range(image_generator_num):
+        # get the overlap bbox
+        num_overlap_bbox = random.randint(5, 15)
+        overlap_bbox_ls = list()
+        overlap_anos_ls = list()
+        overlap_wh_ls = list()
+        for j in range(num_overlap_bbox):
+            box1, box2 = random.sample(all_bboxes, 2)
+            b1_h, b1_w = box1.shape[:2]
+            b2_h, b2_w = box2.shape[:2]
+            #
+            resize_flag = True
+            if resize_flag:
+                if b1_h*b1_w > b2_h*b2_w:
+                    scale = b1_h / b2_h
+                    b2_w = int(b2_w * scale)
+                    box2 = cv2.resize(box2, (b2_w, b1_h))
+                    box_a, box_b = box2, box1
+                else:
+                    scale = b2_h / b1_h
+                    b1_w = int(b1_w * scale)
+                    box1 = cv2.resize(box1, (b2_h, b1_w))
+                    box_a, box_b = box1, box2
+                #
             else:
-                scale = b2_h / b1_h
-                b1_w = int(b1_w * scale)
-                box1 = cv2.resize(box1, (b2_h, b1_w))
                 box_a, box_b = box1, box2
             #
-        else:
-            box_a, box_b = box1, box2
+            #
+            area_rate = random.randint(4, 6) / 10
+            b_box, anos = genBox(box_b, box_a, area_rate, False)
+            overlap_bbox_ls.append(b_box)
+            overlap_anos_ls.append(anos)
+            overlap_wh_ls.append([b_box.shape[1], b_box.shape[0]]) # the wh
+        # paste the overlap bbox to the board
+        img_grid = np.copy(board_img)
+        rec_ls = list()
+        img_overlap_ls = list()
+        anos_overlap_ls = list()
+        for k in range(len(overlap_wh_ls)):
+            wh_paper = overlap_wh_ls[k]
+            if not isValidWH((10, 10), wh_paper, wh_board):
+                continue
+            # get the other
+            is_paste = isPaste(wh_paper, wh_board, rec_ls)
+            img_overlap_ls.append(overlap_bbox_ls[k])
+            anos_overlap_ls.append(overlap_anos_ls[k])
+            if not is_paste:
+                img_overlap_ls.pop()
+                anos_overlap_ls.pop()
+                pasteImage(beneath_img, board_img, rec_ls, img_overlap_ls, anos_overlap_ls, rec_board)
+                img_overlap_ls.clear()
+                anos_overlap_ls.clear()
+                rec_ls.clear()
         #
-        just_red_and_blue = False
-        if just_red_and_blue:
-            box_a = o_box_a
-            box_b = o_box_b
-        #
-        area_rate = random.randint(1, 5) / 10
-        b_box = genBox(box_b, box_a, area_rate, False)
-
-        # show the b_box
-        cv2.imshow("show", b_box)
-        key_val = cv2.waitKey(100) & 0xff
-        if key_val == ord("q"):
-            break
-        elif key_val == ord("s"):
-            print("save the image!")
-            filename = time.strftime("%y-%m-%d-%H-%M-%S", time.localtime())
-            cv2.imwrite(filename+".jpg", b_box)
-
-        # past the b_box to the image
+        if len(rec_ls) > 0:
+            pasteImage(beneath_img, board_img, rec_ls, img_overlap_ls, anos_overlap_ls, rec_board)
